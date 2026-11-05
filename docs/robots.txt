@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ultrakill2009.github.io/burhandinov-wiki/sitemap.xml

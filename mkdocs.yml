@@ -1,0 +1,18 @@
+site_name: Вики Ильи Бурхандинова
+site_url: https://ultrakill2009.github.io/burhandinov-wiki/
+theme:
+  name: material
+  language: ru
+nav:
+  - Главная: index.md
+  - Персонажи:
+      - Оригинальный Илья Бурхандинов: original.md
+      - Тульпа (5% Копия): tulpa.md
+      - Античеловек (А1): antiman.md
+      - Максим Мазин: mazin.md
+  - Организации:
+      - Гарвардский Центр: harvard.md
+  - Лор:
+      - Пирамиды и артефакты: artifacts.md
+      - Хронология: timeline.md
+      - Глоссарий: glossary.md
